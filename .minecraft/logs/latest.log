@@ -3215,3 +3215,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index: 29, Size: 0
 [14:55:52] [Server thread/INFO] [FML]: Applying holder lookups
 [14:55:52] [Server thread/INFO] [FML]: Holder lookups applied
 [14:55:54] [Client thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[14:56:50] [Client thread/INFO] [foamfix]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@716daae7 0 MultiplayerChunkCache: 625, 625> is still hanging around after 60 seconds.
+[14:56:50] [Client thread/INFO] [foamfix]: This may be due to a world leak, or there is little memory pressure.
+[14:56:50] [Client thread/INFO] [foamfix]: Use the relevant FoamFix options to adjust the wait time.
