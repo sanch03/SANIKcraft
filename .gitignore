@@ -1,0 +1,4 @@
+instance.cfg
+.minecraft/logs/*
+.minecraft\.mixin.out\audit\mixin_implementation_report.txt
+.minecraft/logs/
