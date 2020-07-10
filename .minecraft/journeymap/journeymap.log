@@ -45,3 +45,28 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [14:44:09] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
 [14:53:33] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
 [14:55:50] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World\DIM0
+[15:11:56] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:11:56] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:11:56] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:11:56] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2208MB total, 802MB free 
+[15:12:10] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[15:12:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:10] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:10] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1. Memory: 2566MB total, 724MB free 
+[15:12:15] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0
+[15:12:15] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:15] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:15] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:15] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2663MB total, 993MB free 
+[15:12:18] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[15:12:18] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:18] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:18] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:18] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1. Memory: 2682MB total, 759MB free 
+[15:12:46] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0
+[15:12:46] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:46] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:46] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:46] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2850MB total, 1153MB free 
+[15:15:24] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0

@@ -3218,3 +3218,175 @@ Caused by: java.lang.IndexOutOfBoundsException: Index: 29, Size: 0
 [14:56:50] [Client thread/INFO] [foamfix]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@716daae7 0 MultiplayerChunkCache: 625, 625> is still hanging around after 60 seconds.
 [14:56:50] [Client thread/INFO] [foamfix]: This may be due to a world leak, or there is little memory pressure.
 [14:56:50] [Client thread/INFO] [foamfix]: Use the relevant FoamFix options to adjust the wait time.
+[15:11:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[15:11:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[15:11:52] [Server thread/INFO] [enderio]: Permission Handler is: (default)
+[15:11:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[15:11:53] [Server thread/INFO] [foamfix]: JEI search tree manager injection complete!
+[15:11:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:11:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:11:53] [Server thread/INFO] [FML]: Loading dimension 0 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 666 advancements
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[15:11:54] [Server thread/INFO] [FML]: Loading dimension -1 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[15:11:54] [Server thread/INFO] [FML]: Loading dimension 1 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[15:11:54] [Server thread/INFO] [FML]: Loading dimension -11325 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -11325
+[15:11:54] [Server thread/INFO] [FML]: Loading dimension -9999 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -9999
+[15:11:54] [Server thread/INFO] [FML]: Loading dimension 2 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 2
+[15:11:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[15:11:55] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[15:11:55] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[15:11:55] [Thread-26/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[15:11:55] [Thread-27/INFO] [THAUMCRAFT]: Starting aura thread for dim -11325
+[15:11:55] [Thread-28/INFO] [THAUMCRAFT]: Starting aura thread for dim -9999
+[15:11:55] [Thread-29/INFO] [THAUMCRAFT]: Starting aura thread for dim 2
+[15:11:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[15:11:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:11:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[15:11:55] [Server thread/INFO] [FML]: Unloading dimension 1
+[15:11:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -11325
+[15:11:55] [Server thread/INFO] [FML]: Unloading dimension -11325
+[15:11:55] [Netty Local Client IO #1/INFO] [FML]: Server protocol version 2
+[15:11:55] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[15:11:55] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 84 mods : buildcraftlib@7.99.24.6,levelup2@${version},enderiointegrationforestry@5.2.57,extracells@2.6.2,simplyjetpacks@2.2.14.67,openmods@0.12.2,buildcraftenergy@7.99.24.6,smoothfont@mc1.12.2-2.1.2,jei@4.15.0.291,buildcrafttransport@7.99.24.6,doggytalents@1.15.1.5,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,thermalfoundation@2.6.7,endercore@1.12.2-0.5.76,ageofweapons@0.13.5,betterportals@0.3.7.7,mcp@9.42,treecapitator@1.43.0,clumps@3.1.2,smoothfontcore@mc1.12.2-2.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,jrftl@1.1,appliedenergistics2@rv6-stable-7,enderiointegrationticlate@5.2.57,bno@1.12.2-1.0.4.0,forgelin@1.8.3,bookshelf@2.3.590,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,foamfixcore@7.7.4,cofhworld@1.4.0,cdm@0.4.1,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.2.57,enderstorage@2.4.6.137,thaumcraft@6.1.BETA26,forge@14.23.5.2854,enderioconduits@5.2.57,refinedstorage@1.6.15,buildcraftrobotics@7.99.24.6,eplus@5.0.176,openblocks@1.8.1,minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,enchdesc@1.1.15,tickcentral@2.6,enderiomachines@5.2.57,thermaldynamics@2.5.6,bspkrscore@7.6.0.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.6,openmodscore@0.12.2,applecore@3.4.0,enderiopowertools@5.2.57,energyconverters@1.3.6.24,enderio@5.2.57,teslacorelib_registries@1.0.15,extrautils2@1.0,teslathingies@1.0.15,buildcraftbuilders@7.99.24.6,buildcraftfactory@7.99.24.6,teslacorelib@1.0.15,FML@8.0.99.99,thermalexpansion@5.5.7,enderiobase@5.2.57,enderiointegrationtic@5.2.57,enderioconduitsappliedenergistics@5.2.57,mekanismtools@1.12.2-9.8.3.390,laggoggles@1.12.2-5.8-132,appleskin@1.0.14,buildcraftcompat@7.99.24.6,cfm@6.3.1,chisel@MC1.12.2-1.0.2.45,enderioconduitsopencomputers@5.2.57,solcarrot@1.8.4,foamfix@0.10.10-1.12.2,aquaculture@1.6.8,codechickenlib@3.2.3.358,buildcraftcore@7.99.24.6,effortlessbuilding@1.12.2-2.13
+[15:11:55] [Netty Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[15:11:55] [Netty Local Client IO #1/INFO] [FML]: [Netty Local Client IO #1] Client side modded connection established
+[15:11:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:11:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevylar[local:E:67485e98] logged in with entity id 54872 at (202.1767821237296, 68.0, 49.69999998807907)
+[15:11:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Kevylar joined the game
+[15:11:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Kevylar has made the advancement [Ice Bucket Challenge]
+[15:11:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kevylar'/54872, l='New World2', x=202.18, y=68.00, z=49.70] connected. Sending ping
+[15:11:55] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[15:11:55] [Server thread/INFO] [FML]: Loading dimension -1 (New World2) (net.minecraft.server.integrated.IntegratedServer@6bb353e7)
+[15:11:55] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[15:11:56] [Netty Local Client IO #1/INFO] [Waila]: Received server authentication msg. Remote sync will be activated
+[15:11:56] [Netty Local Client IO #1/INFO] [Mekanism]: Received Cardboard Box blacklist entries from server (22 explicit blocks, 2 mod wildcards)
+[15:11:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:11:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:11:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Kevylar has made the advancement [Ice Bucket Challenge]
+[15:11:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Thank you for downloading MrCrayfish's Furniture Mod.
+[15:11:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §6-> §aCheck out the Community Edition for more Furniture!
+[15:11:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §6-> §rmrcrayfish.com/furniture-comm-edition
+[15:11:56] [Client thread/WARN] [betterportals/view]: Dropping packet net.minecraft.network.play.client.CPacketConfirmTeleport@48f1ad2c
+[15:11:56] [Client thread/WARN] [betterportals/view]: Dropping packet net.minecraft.network.play.client.CPacketPlayer$PositionRotation@720b4eae
+[15:11:56] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 35 advancements
+[15:11:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:11:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:11:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:11:56] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:11:56] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:11:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[15:11:56] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:11:56] [Client thread/INFO] [journeymap]: Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2208MB total, 802MB free 
+[15:11:57] [Thread-27/INFO] [THAUMCRAFT]: Stopping aura thread for dim -11325
+[15:11:57] [Thread-26/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[15:12:09] [Client thread/INFO] [betterportals/view]: Swapping main view ClientState for world 0 with ClientState for world -1
+[15:12:09] [Server thread/INFO] [betterportals/view]: Swapping main view 205.4450179043499/68.0/52.19548549612181 with 224.5/64.0/104.5
+[15:12:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Kevylar has made the advancement [We Need to Go Deeper]
+[15:12:09] [Client thread/INFO] [betterportals/view]: Ack for swap of -1
+[15:12:09] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Kevylar has made the advancement [We Need to Go Deeper]
+[15:12:09] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 43 advancements
+[15:12:10] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[15:12:10] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:10] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:10] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:10] [Client thread/INFO] [journeymap]: Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1. Memory: 2566MB total, 724MB free 
+[15:12:14] [Client thread/INFO] [betterportals/view]: Swapping main view ClientState for world -1 with ClientState for world 0
+[15:12:14] [Server thread/INFO] [betterportals/view]: Swapping main view 26.150359443429217/69.0/6.7424896476099 with 224.5/64.0/104.5
+[15:12:14] [Client thread/INFO] [betterportals/view]: Ack for swap of 0
+[15:12:15] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0
+[15:12:15] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:15] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:15] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:15] [Client thread/INFO] [journeymap]: Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2663MB total, 993MB free 
+[15:12:18] [Client thread/INFO] [betterportals/view]: Swapping main view ClientState for world 0 with ClientState for world -1
+[15:12:18] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[15:12:18] [Server thread/INFO] [betterportals/view]: Swapping main view 205.28228896471043/68.0/52.073686902865035 with 224.5/64.0/104.5
+[15:12:18] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:18] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:18] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:18] [Client thread/INFO] [journeymap]: Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1. Memory: 2682MB total, 759MB free 
+[15:12:18] [Client thread/INFO] [betterportals/view]: Ack for swap of -1
+[15:12:34] [Server thread/WARN] [FML]: Better Portals loaded a new chunk [-11, 11] in dimension -1 (the_nether) while populating chunk [-11, 12], causing cascading worldgen lag.
+[15:12:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:12:34] [Server thread/WARN] [FML]: Better Portals loaded a new chunk [-11, 10] in dimension -1 (the_nether) while populating chunk [-11, 12], causing cascading worldgen lag.
+[15:12:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:12:34] [Server thread/WARN] [FML]: Better Portals loaded a new chunk [-11, 9] in dimension -1 (the_nether) while populating chunk [-11, 12], causing cascading worldgen lag.
+[15:12:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:12:46] [Client thread/INFO] [betterportals/view]: Swapping main view ClientState for world -1 with ClientState for world 0
+[15:12:46] [Server thread/INFO] [betterportals/view]: Swapping main view 25.878568823502764/69.0/6.610443182446705 with 224.5/64.0/104.5
+[15:12:46] [Client thread/INFO] [betterportals/view]: Ack for swap of 0
+[15:12:46] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0
+[15:12:46] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:12:46] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:12:46] [Client thread/INFO] [journeymap]: Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[15:12:46] [Client thread/INFO] [journeymap]: Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 2850MB total, 1153MB free 
+[15:12:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:12:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:12:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:12:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:12:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:13:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:13:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:13:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:13:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:13:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:13:16] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:13:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:13:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:13:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:13:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:13:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:13:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:13:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:13:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:13:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:14:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Kevylar has made the advancement [Best Friends Forever]
+[15:14:22] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Kevylar has made the advancement [Best Friends Forever]
+[15:14:22] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 45 advancements
+[15:14:50] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 56 advancements
+[15:15:24] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:15:24] [Netty Local Client IO #1/INFO] [EnderCore]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[15:15:24] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:15:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevylar lost connection: Disconnected
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Kevylar left the game
+[15:15:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/overworld
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/the_nether
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/ExtraUtils2_Quarry_Dim
+[15:15:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World2'/Storage Cell
+[15:15:24] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[15:15:25] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[15:15:25] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[15:15:25] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[15:15:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:15:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:15:25] [Server thread/INFO] [FML]: Unloading dimension -9999
+[15:15:25] [Server thread/INFO] [FML]: Unloading dimension 2
+[15:15:25] [Thread-25/WARN] [THAUMCRAFT]: No auras found!
+[15:15:25] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[15:15:25] [Thread-28/WARN] [THAUMCRAFT]: No auras found!
+[15:15:25] [Thread-28/INFO] [THAUMCRAFT]: Stopping aura thread for dim -9999
+[15:15:25] [Thread-29/WARN] [THAUMCRAFT]: No auras found!
+[15:15:25] [Thread-29/INFO] [THAUMCRAFT]: Stopping aura thread for dim 2
+[15:15:25] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim 0
+[15:15:26] [Server thread/INFO] [foamfix]: JEI search tree manager injection complete!
+[15:15:26] [Server thread/INFO] [FML]: Applying holder lookups
+[15:15:26] [Server thread/INFO] [FML]: Holder lookups applied
+[15:15:27] [Client thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[15:16:24] [Client thread/INFO] [foamfix]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@4261c146 0 MultiplayerChunkCache: 601, 601> is still hanging around after 60 seconds.
+[15:16:27] [Client thread/INFO] [foamfix]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@7bfd2a80 -1 MultiplayerChunkCache: 626, 626> is still hanging around after 60 seconds.
+[15:19:57] [Client thread/INFO] [com.mojang.realmsclient.RealmsMainScreen]: Realms library version == 1.10.22
+[15:19:59] [MCO Compatability Checker #1/ERROR] [com.mojang.realmsclient.RealmsMainScreen]: Couldn't connect to realms: 
