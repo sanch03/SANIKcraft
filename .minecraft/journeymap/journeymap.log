@@ -44,3 +44,4 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [11:25:36] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World\DIM0. Memory: 2964MB total, 1268MB free 
 [11:25:36] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
 [11:42:52] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=34, y=81, z=79}. Deathpoints enabled: true. Deathpoint created: true
+[11:59:14] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World\DIM0

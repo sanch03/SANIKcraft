@@ -3077,3 +3077,29 @@ java.lang.Exception: null
 [11:44:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
 [11:44:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
 [11:44:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/Storage Cell
+[11:59:14] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[11:59:14] [Client thread/INFO] [journeymap]: Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World\DIM0
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[11:59:14] [Netty Local Client IO #0/INFO] [EnderCore]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/ExtraUtils2_Quarry_Dim
+[11:59:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/Storage Cell
+[11:59:14] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[11:59:14] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[11:59:14] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[11:59:14] [Server thread/INFO] [FML]: Unloading dimension 0
+[11:59:14] [Server thread/INFO] [FML]: Unloading dimension -9999
+[11:59:14] [Server thread/INFO] [FML]: Unloading dimension 2
+[11:59:15] [Thread-13/WARN] [THAUMCRAFT]: No auras found!
+[11:59:15] [Thread-13/INFO] [THAUMCRAFT]: Stopping aura thread for dim 0
+[11:59:15] [Thread-19/WARN] [THAUMCRAFT]: No auras found!
+[11:59:15] [Thread-19/INFO] [THAUMCRAFT]: Stopping aura thread for dim -9999
+[11:59:15] [Server thread/INFO] [foamfix]: JEI search tree manager injection complete!
+[11:59:15] [Thread-20/WARN] [THAUMCRAFT]: No auras found!
+[11:59:15] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim 2
+[11:59:16] [Server thread/INFO] [FML]: Applying holder lookups
+[11:59:16] [Server thread/INFO] [FML]: Holder lookups applied
+[11:59:16] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[11:59:16] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
