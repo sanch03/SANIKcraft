@@ -1,266 +1,732 @@
 {
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "triumph:vanilla/nether/root": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "entered_nether": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "triumph:example/example_brewed_potion": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "brewedPotion": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "triumph:vanilla/end/respawn_dragon": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "summoned_dragon": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "triumph:vanilla/husbandry/bred_all_animals": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "bred_chicken": "2020-07-10 11:42:19 +1000",
+      "bred_ocelot": "2020-07-10 11:42:19 +1000",
+      "bred_sheep": "2020-07-10 11:42:19 +1000",
+      "bred_wolf": "2020-07-10 11:42:19 +1000",
+      "bred_llama": "2020-07-10 11:42:19 +1000",
+      "bred_rabbit": "2020-07-10 11:42:19 +1000",
+      "bred_horse": "2020-07-10 11:42:19 +1000",
+      "bred_cow": "2020-07-10 11:42:19 +1000",
+      "bred_mooshroom": "2020-07-10 11:42:19 +1000",
+      "bred_pig": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "triumph:vanilla/story/form_obsidian": {
     "criteria": {
-      "has_blue_wool": "2020-07-09 14:51:38 +1000"
+      "obsidian": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+  "triumph:vanilla/story/mine_diamond": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "diamond": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "triumph:vanilla/adventure/adventuring_time": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "ice_flats": "2020-07-10 11:42:19 +1000",
+      "frozen_river": "2020-07-10 11:42:19 +1000",
+      "taiga_cold_hills": "2020-07-10 11:42:19 +1000",
+      "forest": "2020-07-10 11:26:52 +1000",
+      "mesa_rock": "2020-07-10 11:42:19 +1000",
+      "mushroom_island_shore": "2020-07-10 11:42:19 +1000",
+      "swampland": "2020-07-10 11:28:36 +1000",
+      "birch_forest": "2020-07-10 11:42:19 +1000",
+      "deep_ocean": "2020-07-10 11:42:19 +1000",
+      "beaches": "2020-07-10 11:42:19 +1000",
+      "extreme_hills_with_trees": "2020-07-10 11:32:24 +1000",
+      "desert_hills": "2020-07-10 11:42:19 +1000",
+      "mesa": "2020-07-10 11:42:19 +1000",
+      "forest_hills": "2020-07-10 11:42:19 +1000",
+      "savanna": "2020-07-10 11:42:19 +1000",
+      "plains": "2020-07-10 11:42:19 +1000",
+      "jungle_hills": "2020-07-10 11:42:19 +1000",
+      "jungle_edge": "2020-07-10 11:42:19 +1000",
+      "mesa_clear_rock": "2020-07-10 11:42:19 +1000",
+      "savanna_rock": "2020-07-10 11:42:19 +1000",
+      "ice_mountains": "2020-07-10 11:42:19 +1000",
+      "redwood_taiga": "2020-07-10 11:42:19 +1000",
+      "taiga": "2020-07-10 11:42:19 +1000",
+      "redwood_taiga_hills": "2020-07-10 11:42:19 +1000",
+      "taiga_hills": "2020-07-10 11:42:19 +1000",
+      "birch_forest_hills": "2020-07-10 11:42:19 +1000",
+      "mushroom_island": "2020-07-10 11:42:19 +1000",
+      "taiga_cold": "2020-07-10 11:42:19 +1000",
+      "ocean": "2020-07-10 11:42:19 +1000",
+      "extreme_hills": "2020-07-10 11:25:34 +1000",
+      "roofed_forest": "2020-07-10 11:42:19 +1000",
+      "cold_beach": "2020-07-10 11:42:19 +1000",
+      "river": "2020-07-10 11:42:19 +1000",
+      "jungle": "2020-07-10 11:42:19 +1000",
+      "desert": "2020-07-10 11:42:19 +1000",
+      "stone_beach": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "has_spider_eye": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
+  "triumph:vanilla/story/smelt_iron": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "iron": "2020-07-10 11:28:20 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "triumph:vanilla/end/find_end_city": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "in_city": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "triumph:example/example_placed_block": {
     "criteria": {
-      "skeleton": "2020-07-09 14:49:06 +1000"
+      "placedDirt": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
+  "triumph:vanilla/husbandry/tame_an_animal": {
     "criteria": {
-      "has_blue_wool": "2020-07-09 14:51:38 +1000"
+      "tamed_animal": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+  "triumph:vanilla/story/enchant_item": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "enchanted_item": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "triumph:example/example_construct_beacon": {
     "criteria": {
-      "skeleton": "2020-07-09 14:49:06 +1000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2020-07-09 14:44:05 +1000"
+      "beacon": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+  "triumph:vanilla/end/levitate": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "levitated": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
+  "triumph:vanilla/adventure/shoot_arrow": {
     "criteria": {
-      "has_stone": "2020-07-09 14:44:05 +1000"
+      "shot_arrow": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "triumph:example/example_slept_in_bed": {
     "criteria": {
-      "get_stone": "2020-07-09 14:44:05 +1000"
+      "slept_in_bed": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "triumph:example/example_killed_entity": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "killed_spider": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "triumph:example/example_better_advancement_colors": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "crafted": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+  "triumph:example/example_completed_advancement": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "Completed Caveman no like red rocks.§r": "2020-07-10 11:42:19 +1000",
+      "brokeNetherrack": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "triumph:vanilla/story/enter_the_nether": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "entered_nether": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "cfm:root": {
+  "triumph:vanilla/adventure/trade": {
     "criteria": {
-      "tick": "2020-07-09 14:44:06 +1000"
+      "traded": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "triumph:vanilla/adventure/summon_iron_golem": {
     "criteria": {
-      "extreme_hills_with_trees": "2020-07-09 14:48:58 +1000",
-      "extreme_hills": "2020-07-09 14:44:06 +1000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "summoned_golem": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "triumph:example/example_item_crafted": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "crafted": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "triumph:example/example_killed_by_entity": {
     "criteria": {
-      "has_lots_of_items": "2020-07-09 14:44:05 +1000"
+      "killed_by_creeper": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "buildcrafttransport:pipe_dream": {
+  "triumph:example/example_destroy_block": {
     "criteria": {
-      "code_trigger": "2020-07-09 14:53:48 +1000"
+      "destroyedBlock": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+  "triumph:vanilla/nether/summon_wither": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "summoned": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "triumph:vanilla/story/mine_stone": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "get_stone": "2020-07-10 11:25:34 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "triumph:vanilla/story/enter_the_end": {
     "criteria": {
-      "has_stone": "2020-07-09 14:44:05 +1000"
+      "entered_end": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
+  "triumph:example/example_recipe_unlocked": {
     "criteria": {
-      "has_wool": "2020-07-09 14:51:38 +1000"
+      "unlocked_recipe": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "triumph:vanilla/story/iron_tools": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "iron_pickaxe": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "cfm:install": {
+  "triumph:vanilla/story/root": {
     "criteria": {
-      "tick": "2020-07-09 14:44:06 +1000"
+      "crafting_table": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "triumph:vanilla/adventure/totem_of_undying": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "used_totem": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "triumph:example/example_break_block": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "brokeLog": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "enderioconduits:root": {
+  "triumph:vanilla/adventure/sleep_in_bed": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2020-07-09 14:44:05 +1000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "slept_in_bed": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "triumph:vanilla/husbandry/breed_an_animal": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "bred_chicken": "2020-07-10 11:42:19 +1000",
+      "bred_ocelot": "2020-07-10 11:42:19 +1000",
+      "bred_sheep": "2020-07-10 11:42:19 +1000",
+      "bred_wolf": "2020-07-10 11:42:19 +1000",
+      "bred_llama": "2020-07-10 11:42:19 +1000",
+      "bred_rabbit": "2020-07-10 11:42:19 +1000",
+      "bred_horse": "2020-07-10 11:42:19 +1000",
+      "bred_cow": "2020-07-10 11:42:19 +1000",
+      "bred_mooshroom": "2020-07-10 11:42:19 +1000",
+      "bred_pig": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "triumph:vanilla/nether/uneasy_alliance": {
     "criteria": {
-      "has_cobblestone": "2020-07-09 14:44:05 +1000"
+      "killed_ghast": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "triumph:vanilla/end/dragon_breath": {
     "criteria": {
-      "has_blue_wool": "2020-07-09 14:51:38 +1000"
+      "dragon_breath": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "triumph:vanilla/end/dragon_egg": {
     "criteria": {
-      "killed_something": "2020-07-09 14:49:06 +1000"
+      "dragon_egg": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/speckled_melon": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "has_melon": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "triumph:example/root": {
     "criteria": {
-      "has_gravel": "2020-07-09 14:44:05 +1000"
+      "location": "2020-07-10 11:25:34 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_count": {
+    "criteria": {
+      "clickedBlock": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-07-10 11:42:19 +1000",
+      "diamond_helmet": "2020-07-10 11:42:19 +1000",
+      "diamond_chestplate": "2020-07-10 11:42:19 +1000",
+      "diamond_boots": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2020-07-10 11:42:19 +1000",
+      "has_water_bucket": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/all_effects": {
+    "criteria": {
+      "all_effects": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/root": {
+    "criteria": {
+      "entered_end": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/root": {
+    "criteria": {
+      "impossible": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_dimension": {
+    "criteria": {
+      "entered_nether": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_right_click_block": {
+    "criteria": {
+      "clickedBlock": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_bred_animals": {
+    "criteria": {
+      "bred_sheep": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-07-10 11:42:19 +1000",
+      "killed_something": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_hurt_entity": {
+    "criteria": {
+      "hurt_wolf": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_pigman": "2020-07-10 11:42:19 +1000",
+      "stray": "2020-07-10 11:42:19 +1000",
+      "shulker": "2020-07-10 11:42:19 +1000",
+      "wither_skeleton": "2020-07-10 11:42:19 +1000",
+      "zombie_villager": "2020-07-10 11:42:19 +1000",
+      "magma_cube": "2020-07-10 11:42:19 +1000",
+      "polar_bear": "2020-07-10 11:42:19 +1000",
+      "slime": "2020-07-10 11:42:19 +1000",
+      "vindicator": "2020-07-10 11:42:19 +1000",
+      "skeleton": "2020-07-10 11:42:19 +1000",
+      "husk": "2020-07-10 11:42:19 +1000",
+      "blaze": "2020-07-10 11:42:19 +1000",
+      "evoker": "2020-07-10 11:42:19 +1000",
+      "cave_spider": "2020-07-10 11:42:19 +1000",
+      "silverfish": "2020-07-10 11:42:19 +1000",
+      "zombie": "2020-07-10 11:42:19 +1000",
+      "witch": "2020-07-10 11:42:19 +1000",
+      "guardian": "2020-07-10 11:42:19 +1000",
+      "spider": "2020-07-10 11:42:19 +1000",
+      "ghast": "2020-07-10 11:42:19 +1000",
+      "creeper": "2020-07-10 11:42:19 +1000",
+      "enderman": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_location_worldtype": {
+    "criteria": {
+      "superflat": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_tame_animal": {
+    "criteria": {
+      "tamed_horse": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/break_diamond_hoe": {
+    "criteria": {
+      "broke_hoe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2020-07-10 11:42:19 +1000",
+      "pumpkin_stem": "2020-07-10 11:42:19 +1000",
+      "melon_stem": "2020-07-10 11:42:19 +1000",
+      "nether_wart": "2020-07-10 11:42:19 +1000",
+      "wheat": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_enchanted_item": {
+    "criteria": {
+      "enchanted": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_consume_item": {
+    "criteria": {
+      "consumed": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_pigman": "2020-07-10 11:42:19 +1000",
+      "stray": "2020-07-10 11:42:19 +1000",
+      "shulker": "2020-07-10 11:42:19 +1000",
+      "wither_skeleton": "2020-07-10 11:42:19 +1000",
+      "zombie_villager": "2020-07-10 11:42:19 +1000",
+      "magma_cube": "2020-07-10 11:42:19 +1000",
+      "polar_bear": "2020-07-10 11:42:19 +1000",
+      "slime": "2020-07-10 11:42:19 +1000",
+      "vindicator": "2020-07-10 11:42:19 +1000",
+      "skeleton": "2020-07-10 11:42:19 +1000",
+      "husk": "2020-07-10 11:42:19 +1000",
+      "blaze": "2020-07-10 11:42:19 +1000",
+      "evoker": "2020-07-10 11:42:19 +1000",
+      "cave_spider": "2020-07-10 11:42:19 +1000",
+      "silverfish": "2020-07-10 11:42:19 +1000",
+      "zombie": "2020-07-10 11:42:19 +1000",
+      "witch": "2020-07-10 11:42:19 +1000",
+      "guardian": "2020-07-10 11:42:19 +1000",
+      "spider": "2020-07-10 11:42:19 +1000",
+      "ghast": "2020-07-10 11:42:19 +1000",
+      "creeper": "2020-07-10 11:42:19 +1000",
+      "enderman": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/all_potions": {
+    "criteria": {
+      "all_effects": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2020-07-10 11:42:19 +1000",
+      "iron_chestplate": "2020-07-10 11:42:19 +1000",
+      "iron_leggings": "2020-07-10 11:42:19 +1000",
+      "iron_helmet": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_left_click_block": {
+    "criteria": {
+      "clickedBlock": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_right_click_item": {
+    "criteria": {
+      "clickedItem": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_impossible": {
+    "criteria": {
+      "impossible": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_biome": {
+    "criteria": {
+      "entered_forest": "2020-07-10 11:26:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_player_death": {
+    "criteria": {
+      "die_in_lava": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_block": {
+    "criteria": {
+      "entered": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_location_dimid": {
+    "criteria": {
+      "entered_nether": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_harvest_block": {
+    "criteria": {
+      "harvestedBlock": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2020-07-10 11:42:19 +1000",
+      "has_the_recipe": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/elytra": {
+    "criteria": {
+      "elytra": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_inventory_changed": {
+    "criteria": {
+      "hasStickOfTruth": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_all_rewards": {
+    "criteria": {
+      "hasFlint": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2020-07-10 11:42:19 +1000",
+      "chicken": "2020-07-10 11:42:19 +1000",
+      "cooked_mutton": "2020-07-10 11:42:19 +1000",
+      "cooked_beef": "2020-07-10 11:42:19 +1000",
+      "chorus_fruit": "2020-07-10 11:42:19 +1000",
+      "beef": "2020-07-10 11:42:19 +1000",
+      "baked_potato": "2020-07-10 11:42:19 +1000",
+      "porkchop": "2020-07-10 11:42:19 +1000",
+      "clownfish": "2020-07-10 11:42:19 +1000",
+      "beetroot_soup": "2020-07-10 11:42:19 +1000",
+      "apple": "2020-07-10 11:42:19 +1000",
+      "spider_eye": "2020-07-10 11:42:19 +1000",
+      "potato": "2020-07-10 11:42:19 +1000",
+      "cooked_cod": "2020-07-10 11:42:19 +1000",
+      "rabbit": "2020-07-10 11:42:19 +1000",
+      "poisonous_potato": "2020-07-10 11:42:19 +1000",
+      "melon": "2020-07-10 11:42:19 +1000",
+      "pumpkin_pie": "2020-07-10 11:42:19 +1000",
+      "raw_salmon": "2020-07-10 11:42:19 +1000",
+      "mutton": "2020-07-10 11:42:19 +1000",
+      "pufferfish": "2020-07-10 11:42:19 +1000",
+      "bread": "2020-07-10 11:42:19 +1000",
+      "golden_apple": "2020-07-10 11:42:19 +1000",
+      "cookie": "2020-07-10 11:42:19 +1000",
+      "rotten_flesh": "2020-07-10 11:42:19 +1000",
+      "raw_cod": "2020-07-10 11:42:19 +1000",
+      "golden_carrot": "2020-07-10 11:42:19 +1000",
+      "beetroot": "2020-07-10 11:42:19 +1000",
+      "cooked_rabbit": "2020-07-10 11:42:19 +1000",
+      "cooked_chicken": "2020-07-10 11:42:19 +1000",
+      "enchanted_golden_apple": "2020-07-10 11:42:19 +1000",
+      "mushroom_stew": "2020-07-10 11:42:19 +1000",
+      "rabbit_stew": "2020-07-10 11:42:19 +1000",
+      "cooked_salmon": "2020-07-10 11:42:19 +1000",
+      "carrot": "2020-07-10 11:42:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_villager_trade": {
+    "criteria": {
+      "traded": "2020-07-10 11:42:19 +1000"
     },
     "done": true
   }
