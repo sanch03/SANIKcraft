@@ -12,7 +12,7 @@ setDescription("Right click an emerald ore block. Advancement completion resets 
 addParent("triumph:example/root")
 
 //Set the position
-setPos(126,89)
+setPos(125,88)
 
 //Hide the connection lines, so I can have a pretty shape
 hideLines()
