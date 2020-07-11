@@ -224,12 +224,6 @@
     },
     "done": true
   },
-  "triumph:example/example_repeatable": {
-    "criteria": {
-      "clickedBlock": "2020-07-11 17:32:51 +1000"
-    },
-    "done": true
-  },
   "triumph:vanilla/story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-07-10 13:06:56 +1000"

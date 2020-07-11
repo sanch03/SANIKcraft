@@ -43,3 +43,110 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [17:30:47] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
 [17:30:47] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3150MB total, 1340MB free 
 [17:30:51] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[17:54:35] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:54:35] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=126, y=76, z=-122}. Deathpoints enabled: true. Deathpoint created: true
+[17:54:37] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:54:37] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:54:37] [Client thread/INFO] [WaypointStore] Loaded 1 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:54:37] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3758MB total, 843MB free 
+[17:56:04] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:56:04] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=141, y=68, z=-115}. Deathpoints enabled: true. Deathpoint created: true
+[17:56:05] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:56:05] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:56:05] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:56:05] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3781MB total, 474MB free 
+[17:56:20] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:56:20] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=70, z=-114}. Deathpoints enabled: true. Deathpoint created: true
+[17:56:22] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:56:22] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:56:22] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:56:22] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3730MB total, 1129MB free 
+[17:56:38] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:56:38] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-112}. Deathpoints enabled: true. Deathpoint created: true
+[17:56:40] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:56:40] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:56:40] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:56:40] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3958MB total, 1874MB free 
+[17:57:52] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:57:52] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=112, y=65, z=-117}. Deathpoints enabled: true. Deathpoint created: true
+[17:57:54] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:57:54] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:57:54] [Client thread/INFO] [WaypointStore] Loaded 5 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:57:54] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4066MB total, 1150MB free 
+[17:58:27] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:58:27] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-108}. Deathpoints enabled: true. Deathpoint created: true
+[17:58:29] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:58:29] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:58:29] [Client thread/INFO] [WaypointStore] Loaded 6 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:58:29] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3987MB total, 1732MB free 
+[17:59:10] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[17:59:10] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=133, y=67, z=-110}. Deathpoints enabled: true. Deathpoint created: true
+[17:59:12] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:59:12] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:59:12] [Client thread/INFO] [WaypointStore] Loaded 7 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[17:59:12] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4015MB total, 923MB free 
+[18:00:02] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:00:02] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-99}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:04] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:00:04] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:00:04] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:00:04] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4039MB total, 1356MB free 
+[18:00:32] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:00:32] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=66, z=-137}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:34] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:00:34] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:00:34] [Client thread/INFO] [WaypointStore] Loaded 9 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:00:34] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4036MB total, 389MB free 
+[18:00:41] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:00:41] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=148, y=69, z=-124}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:43] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:00:43] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:00:43] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:00:43] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 3980MB total, 194MB free 
+[18:00:49] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:00:49] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=149, y=67, z=-127}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:51] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:00:51] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:00:52] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:00:52] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4074MB total, 1679MB free 
+[18:01:00] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:01:00] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=122, y=66, z=-112}. Deathpoints enabled: true. Deathpoint created: true
+[18:01:03] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:01:03] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:01:03] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:01:03] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4062MB total, 1582MB free 
+[18:01:10] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:01:10] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=137, y=67, z=-113}. Deathpoints enabled: true. Deathpoint created: true
+[18:01:12] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:01:12] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:01:12] [Client thread/INFO] [WaypointStore] Loaded 13 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:01:12] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4039MB total, 1762MB free 
+[18:03:00] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM-1
+[18:03:01] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=256, z=-121}. Deathpoints enabled: true. Deathpoint created: true
+[18:03:03] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[18:03:03] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[18:03:03] [Client thread/INFO] [WaypointStore] Loaded 14 waypoints from Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\waypoints
+[18:03:03] [Client thread/INFO] [JourneymapClient] Mapping started in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0. Memory: 4143MB total, 1780MB free 
+[18:03:09] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=132, y=67, z=-115}. Deathpoints enabled: true. Deathpoint created: true
+[18:03:18] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=132, y=67, z=-108}. Deathpoints enabled: true. Deathpoint created: true
+[18:03:26] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=132, y=67, z=-114}. Deathpoints enabled: true. Deathpoint created: true
+[18:04:18] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=163, y=78, z=-63}. Deathpoints enabled: true. Deathpoint created: true
+[18:04:27] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=135, y=67, z=-104}. Deathpoints enabled: true. Deathpoint created: true
+[18:04:37] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-102}. Deathpoints enabled: true. Deathpoint created: true
+[18:04:47] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=130, y=67, z=-106}. Deathpoints enabled: true. Deathpoint created: true
+[18:04:59] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-132}. Deathpoints enabled: true. Deathpoint created: true
+[18:05:29] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-134}. Deathpoints enabled: true. Deathpoint created: true
+[18:05:41] [JM-texture-3/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/mysticdrew?at=1594454740 : Remote host closed connection during handshake
+[18:05:41] [JM-texture-2/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/techbrew?at=1594454740 : Remote host closed connection during handshake
+[18:05:44] [JM-texture-2/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/gdude2002?at=1594454742 : Remote host closed connection during handshake
+[18:05:45] [JM-texture-3/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/AlexDurrani?at=1594454744 : Remote host closed connection during handshake
+[18:05:46] [JM-texture-2/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/_TheEndless_?at=1594454745 : Remote host closed connection during handshake
+[18:05:49] [JM-texture-2/ERROR] [IgnSkin] Error getting player id: https://api.mojang.com/users/profiles/minecraft/eladjenkins?at=1594454747 : Remote host closed connection during handshake
+[18:06:07] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-113}. Deathpoints enabled: true. Deathpoint created: true
+[18:06:19] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=131, y=67, z=-115}. Deathpoints enabled: true. Deathpoint created: true
+[18:18:27] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=401, y=67, z=-313}. Deathpoints enabled: true. Deathpoint created: true
+[18:18:47] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=133, y=67, z=-103}. Deathpoints enabled: true. Deathpoint created: true
+[18:26:20] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[18:26:20] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[18:31:39] [Client thread/INFO] [StateTickHandler] Kevylar died at BlockPos{x=1117, y=67, z=-832}. Deathpoints enabled: true. Deathpoint created: true
+[18:31:41] [Client thread/INFO] [JourneymapClient] Mapping halted in Z:\Downloads\MultiMC\MultiMC\instances\UNSTABLE SANIKcraft\.minecraft\journeymap\data\sp\New World2\DIM0

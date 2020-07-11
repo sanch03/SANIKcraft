@@ -6,3 +6,4 @@ addParent("triumph:vanilla/story/upgrade_tools")
 
 criteria = addCriteria("iron", "minecraft:inventory_changed")
 criteria.addItem("minecraft:iron_ingot")
+setPos(96,40)
