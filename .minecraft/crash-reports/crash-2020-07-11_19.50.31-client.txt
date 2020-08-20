@@ -1,0 +1,100 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't do that.
+
+Time: 7/11/20 7:50 PM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Custom Main Menu (custommainmenu)
+Caused by: java.lang.RuntimeException: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 147 column 2 path $.buttons.mods
+	at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 147 column 2 path $.buttons.mods
+	at com.google.gson.internal.Streams.parse(Streams.java:60)
+	at com.google.gson.JsonParser.parse(JsonParser.java:84)
+	at lumien.custommainmenu.configuration.ConfigurationLoader.load(ConfigurationLoader.java:141)
+	at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:66)
+	... 41 more
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 147 column 2 path $.buttons.mods
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:491)
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+	at com.google.gson.internal.Streams.parse(Streams.java:48)
+	... 44 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_251, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 389983760 bytes (371 MB) / 1073741824 bytes (1024 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx2048m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID             | Version      | Source                                  | Signature                                |
+	|:----- |:-------------- |:------------ |:--------------------------------------- |:---------------------------------------- |
+	| LCH   | minecraft      | 1.12.2       | minecraft.jar                           | None                                     |
+	| LCH   | mcp            | 9.42         | minecraft.jar                           | None                                     |
+	| LCH   | FML            | 8.0.99.99    | forge-1.12.2-14.23.5.2854-universal.jar | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | forge          | 14.23.5.2854 | forge-1.12.2-14.23.5.2854-universal.jar | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCE   | custommainmenu | 2.0.9.1      | CustomMainMenu-MC1.12.2-2.0.9.1.jar     | None                                     |
+	| LC    | resourceloader | 1.5.3        | ResourceLoader-MC1.12.1-1.5.3.jar       | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+
+	Loaded coremods (and transformers): 
+LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+  lumien.resourceloader.asm.ClassTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 26.20.100.7262' Renderer: 'Intel(R) UHD Graphics 620'

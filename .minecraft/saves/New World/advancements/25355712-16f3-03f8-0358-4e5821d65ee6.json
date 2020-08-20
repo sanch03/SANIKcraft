@@ -1,232 +1,106 @@
 {
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/speckled_melon": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "triumph:example/example_recipe_unlocked": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "unlocked_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "triumph:example/root": {
     "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "buildcraftbuilders:shaping_the_world": {
-    "criteria": {
-      "code_trigger": "2020-06-24 16:59:48 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "cfm:root": {
-    "criteria": {
-      "tick": "2020-06-24 16:44:34 +1000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2020-06-24 16:44:34 +1000",
-      "taiga": "2020-06-24 16:52:01 +1000",
-      "extreme_hills": "2020-06-24 16:51:48 +1000",
-      "river": "2020-06-24 16:51:49 +1000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "buildcrafttransport:pipe_dream": {
-    "criteria": {
-      "code_trigger": "2020-06-24 17:00:48 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_stone": "2020-06-24 17:13:33 +1000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
+      "location": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
   "cfm:install": {
     "criteria": {
-      "tick": "2020-06-24 16:44:34 +1000"
+      "tick": "2020-08-21 08:56:19 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "triumph:example/example_left_click_block": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "clickedBlock": "2020-08-21 08:58:46 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "triumph:vanilla/recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "enderioconduits:root": {
+  "triumph:vanilla/adventure/adventuring_time": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2020-06-24 17:13:53 +1000"
+      "forest": "2020-08-21 08:56:17 +1000",
+      "plains": "2020-08-21 08:58:28 +1000",
+      "roofed_forest": "2020-08-21 08:58:20 +1000",
+      "river": "2020-08-21 08:57:30 +1000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "botania:root": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "location": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/magma_cream": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_cobblestone": "2020-06-24 17:13:33 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_gravel": "2020-06-24 17:13:53 +1000"
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 08:56:17 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_break_block": {
+    "criteria": {
+      "brokeLog": "2020-08-21 08:58:37 +1000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2020-08-21 08:56:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_biome": {
+    "criteria": {
+      "entered_forest": "2020-08-21 08:56:17 +1000"
     },
     "done": true
   }
