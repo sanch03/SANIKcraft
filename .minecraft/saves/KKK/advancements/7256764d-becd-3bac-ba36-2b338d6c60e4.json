@@ -1,0 +1,98 @@
+{
+  "triumph:vanilla/recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_recipe_unlocked": {
+    "criteria": {
+      "unlocked_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2020-08-21 10:59:37 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_left_click_block": {
+    "criteria": {
+      "clickedBlock": "2020-08-21 11:00:40 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-08-21 10:59:36 +1000"
+    },
+    "done": false
+  },
+  "botania:root": {
+    "criteria": {
+      "location": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2020-08-21 10:59:36 +1000"
+    },
+    "done": true
+  },
+  "triumph:example/example_break_block": {
+    "criteria": {
+      "brokeLog": "2020-08-21 11:00:32 +1000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2020-08-21 10:59:37 +1000"
+    },
+    "done": true
+  }
+}

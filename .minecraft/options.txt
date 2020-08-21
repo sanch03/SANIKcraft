@@ -1,11 +1,11 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.5
 gamma:0.0
 saturation:0.0
 renderDistance:12
-guiScale:0
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
@@ -59,8 +59,8 @@ key_key.left:30
 key_key.back:31
 key_key.right:32
 key_key.jump:57
-key_key.sneak:42
-key_key.sprint:29
+key_key.sneak:46
+key_key.sprint:42
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
@@ -87,6 +87,14 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
@@ -107,14 +115,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_keybind.baublesinventory:48
 key_key.xu2.searchforitems:20
 key_key.fart.desc:34
