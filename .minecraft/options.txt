@@ -87,6 +87,7 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -114,7 +115,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.toggleAutojump:48
 key_keybind.baublesinventory:48
 key_key.xu2.searchforitems:20
 key_key.fart.desc:34
@@ -213,8 +213,8 @@ soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
-modelPart_left_sleeve:true
-modelPart_right_sleeve:true
+modelPart_left_sleeve:false
+modelPart_right_sleeve:false
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
